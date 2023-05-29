@@ -11,11 +11,11 @@ En el repositorio se encuentran todas las evidencias que se realizaron en el cur
 <details>
 <summary>Fase 1</summary>
   -Scripting en Powershell
-
+<details>
 <summary>Fase 2</summary>
   -Scripting en Bash
   -Webscraping
-
+<details>
 <summary>Fase 3</summary>
   -Escaner de Puertos
   -Envio de Correos
