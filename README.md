@@ -8,16 +8,23 @@
 
 En el repositorio se encuentran todas las evidencias que se realizaron en el curso
 
+Fase 1
 
-<summary>Fase 1</summary>
-  -[Scripting en Powershell](./script_powershell)
+
+
+-[Scripting en Powershell](./script_powershell)
 
   
   
   
   
 
-<summary>Fase 2</summary>
+
+Fase 2
+
+
+
+
   -[Scripting en Bash](./scripting_bash)
    
    
@@ -28,7 +35,12 @@ En el repositorio se encuentran todas las evidencias que se realizaron en el cur
    
    
   
-<summary>Fase 3</summary>
+Fase 3
+
+
+
+
+
   -[Escaner de Puertos](./escaner_de_puertos)
    
    
