@@ -8,14 +8,30 @@
 
 En el repositorio se encuentran todas las evidencias que se realizaron en el curso
 
-<details>
+
 <summary>Fase 1</summary>
-  -Scripting en Powershell
+  -[Scripting en Powershell](./script_powershell)
+
+  
+  
+  
+  
 
 <summary>Fase 2</summary>
-  -Scripting en Bash
-  -Webscraping
+  -[Scripting en Bash](./scripting_bash)
+   
+   
+   
+   
+  -[Webscraping](./webscraping)
 
+   
+   
+  
 <summary>Fase 3</summary>
-  -Escaner de Puertos
+  -[Escaner de Puertos](./escaner_de_puertos)
+   
+   
+   
+   
   -Envio de Correos
