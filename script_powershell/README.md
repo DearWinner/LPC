@@ -2,7 +2,7 @@
 
 En la practica 5 se ejecutan 3 scripts para obtener informacion de la red
 
-En [scan_alive](./scan_alive1.ps1) Se determina el rango de la subred junto con el gateway de la red
+En [scan_alive](./scan_alive.ps1) Se determina el rango de la subred junto con el gateway de la red
 
 En [scan_alive2](./scan_alivev2.ps1) Se escanean un rango determinado de Ip's
 
